@@ -58,7 +58,6 @@ run main.py
 python main.py
 ```
 
-![image](https://github.com/srinick007/attendance_system/assets/97779349/e9a2c05a-5a53-4259-92ef-c823fd8b8b98)
 
 1 - check camera is functional
 
