@@ -5,6 +5,9 @@
 ## Installation
 
 ### create enviroment (highly suggested)
+
+recommended python version == 3.7
+
 First open the terminal or command line in the IDE.Then write the following code.
 ```
 python -m venv env
