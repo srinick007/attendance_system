@@ -62,7 +62,7 @@ python main.py
 1 - check camera is functional
 
 2 - capture training images of person for attendance. enter unique name(without spaces and special characters) and unique id.
-    camera open and wait for 20 seconds for each person.for each person 101 images are captured and stores in TrainingImages folder. after capturing open TrainingImages and no images other then faces are there . if random image is present delete it.
+    camera open and wait for 20 seconds for each person.for each person 101 images are captured and stores in TrainingImages folder. after capturing open TrainingImages and check no images other then faces are there . if random image is present delete it.
 
 3 - train the model after capturing images of person
 
