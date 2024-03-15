@@ -8,17 +8,19 @@
 
 recommended python version == 3.7
 
-First open the terminal or command line in the IDE.Then write the following code.
+miniconda installation
+https://docs.anaconda.com/free/miniconda/index.html
+
+after successful installation create. conda environment
+```bash
+conda create -n attendance -all -y
 ```
-python -m venv env
+
+activate the environment
+```bash
+conda activate attendance
 ```
-Then activate the enviroment using the code below for windows.
-```
-.\env\Scripts\activate
-```
-[ *Notice:*
-If your pc don't have virtual enviroment or pip install the follow this link.
-[How to create Virtual Enviroment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) ]
+
 
 git clone the repo
 
