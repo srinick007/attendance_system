@@ -39,7 +39,7 @@ install requirements
 pip install -r requirements.txt
 ```
 
-create two folders inside FRAS with the following names:
+create three folders inside FRAS with the following names:
 
 ```bash
 TrainingImage
